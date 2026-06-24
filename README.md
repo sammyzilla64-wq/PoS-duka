@@ -6,7 +6,7 @@
 ​Database Integration: Reliable SQL database for storing sales and product data.
 ​User-Friendly: Simple interface for quick operations.
 ​Setup Instructions:
-Clone the repository:
+Clone the repository: https://github.com/sammyzilla64-wq/PoS-duka.git
 Database Setup:**
     Import the database structure file into your SQL environment.
 3.  **Run the application:**
